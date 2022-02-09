@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CUAV/kaisen/program/repositories/circularbuf/circularbuf.h
+
+/home/CUAV/kaisen/program/repositories/circularbuf/sample.c
+stdio.h
+-
+circularbuf.h
+/home/CUAV/kaisen/program/repositories/circularbuf/circularbuf.h
+

@@ -1,0 +1,3 @@
+/home/CUAV/kaisen/program/repositories/circularbuf/build/CMakeFiles/rebuild_cache.dir
+/home/CUAV/kaisen/program/repositories/circularbuf/build/CMakeFiles/edit_cache.dir
+/home/CUAV/kaisen/program/repositories/circularbuf/build/CMakeFiles/circularbuf-sample.dir
